@@ -1,5 +1,5 @@
 {
-  "name": "simon-ts",
+  "name": "@cleants/core",
   "version": "1.0.0",
   "description": "This is an test",
   "main": "index.js",
